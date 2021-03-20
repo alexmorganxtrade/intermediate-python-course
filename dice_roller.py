@@ -1,6 +1,5 @@
 def main():
-  roll  =  5
-  print(f'You rolled a {roll}')
+  print('You rolled a die')
 
 if __name__== "__main__":
-  main()
+  main()gitstatus
